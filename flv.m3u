@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 group-title="高一",1班
+http://111.6.73.231:19092/10581/1.live.flv
+#EXTINF:-1 group-title="高一",2班
+http://111.6.73.231:9092/10581/2.live.flv
+#EXTINF:-1 group-title="高一",3班
+http://111.6.73.231:19092/10581/3.live.flv
+#EXTINF:-1 group-title="高一",4班
+http://111.6.73.228:19092/10581/4.live.flv
+#EXTINF:-1 group-title="高一",5班
+http://111.6.73.231:19092/10581/5.live.flv
+#EXTINF:-1 group-title="高一",6班
+http://111.6.73.230:9092/10581/6.live.flv
+#EXTINF:-1 group-title="高一",7班
+http://111.6.73.230:9092/10581/7.live.flv
+#EXTINF:-1 group-title="高一",8班
+http://111.6.73.230:9092/10581/8.live.flv
+#EXTINF:-1 group-title="高一",9班
+http://111.6.73.233:9092/10581/9.live.flv
+#EXTINF:-1 group-title="高一",10班
+http://111.6.73.233:19092/10581/10.live.flv
+#EXTINF:-1 group-title="高一",11班
+http://111.6.73.230:19092/10581/11.live.flv
+#EXTINF:-1 group-title="高一",12班
+http://111.6.73.230:19092/10581/12.live.flv
+#EXTINF:-1 group-title="高一",13班
+http://111.6.73.233:19092/10581/13.live.flv
