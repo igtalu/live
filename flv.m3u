@@ -25,3 +25,5 @@ http://111.6.73.230:19092/10581/11.live.flv
 http://111.6.73.230:19092/10581/12.live.flv
 #EXTINF:-1 group-title="高一",13班
 http://111.6.73.233:19092/10581/13.live.flv
+#EXTINF:-1 group-title="直播",电脑
+rtmp://10.0.1.2:1935/live
